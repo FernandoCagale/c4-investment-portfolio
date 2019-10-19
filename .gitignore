@@ -3,3 +3,4 @@ build
 .env
 c4-portfolio.iml
 c4-portfolio
+wire_gen.go
